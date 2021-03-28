@@ -1,0 +1,45 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_description_test","","","","test_dynamic_description[Second param]","
+    Initial test description
+    
+ This is dynamic description part based on Second param"
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_links_test","","","","test_allure_dynamic_links",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_dynamic_labels[some-image:release]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_attachments_test","","","","test_attach",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_dynamic_labels[some-image:latest]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_fixture_test","","","","test_with_fixture_title",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_severity[trivial]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_description_test","","","","test_dynamic_description[First param]","
+    Initial test description
+    
+ This is dynamic description part based on First param"
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","Custom parent suite","Custom suite","Custom sub suite","","","test_allure_suites",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_description_test","","","","test_decorated_description","
+This is test description from decorator
+
+Scenario:
+  - pass
+  "
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_tags",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_fixture_test","","","","test_allure_fixture_with_finalizer",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_severity[minor]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_custom_labels",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_parametrized_test","","","","test_allure_parametrized_test [First name]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_simple_test","","","","test_allure_simple_test displayName",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_links_test","","","","test_allure_links",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_description_test","","","","test_decorated_html_description",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_fixture_test","","","","test_allure_yield_fixture",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_parametrized_test","","","","test_allure_parametrized_fixture[second]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","1","tests","allure_step_statuses_test","","","","test_allure_steps",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_bdd_labels",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","1","tests","allure_parametrized_test","","","","test_allure_parametrized_test [Second name]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_description_test","","","","test_docstring_description","
+    This is a test docstring
+    It's will be shown as an allure test description
+    Scenario:
+     - pass
+    "
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_severity[normal]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_severity[blocker]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_labels_test","","","","test_allure_severity[critical]",""
+"passed","Sun Mar 28 19:21:34 GMT 2021","Sun Mar 28 19:21:34 GMT 2021","0","tests","allure_parametrized_test","","","","test_allure_parametrized_fixture[first]",""

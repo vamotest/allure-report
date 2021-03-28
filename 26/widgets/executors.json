@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://vamotest.github.io/allure-report",
+  "buildOrder" : 26,
+  "buildName" : "GitHub Actions Run #695720114",
+  "buildUrl" : "https://github.com/vamotest/allure-report/actions/runs/695720114",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://vamotest.github.io/allure-report/26/"
+} ]
