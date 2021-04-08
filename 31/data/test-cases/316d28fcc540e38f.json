@@ -1,0 +1,115 @@
+{
+  "uid" : "316d28fcc540e38f",
+  "name" : "test_dynamic_labels[some-image:release]",
+  "fullName" : "tests.allure_labels_test#test_dynamic_labels",
+  "historyId" : "f4ab2900bbd073a41aa1f3c5289d535f",
+  "time" : {
+    "start" : 1617876570241,
+    "stop" : 1617876570241,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "test-image",
+    "value" : "some-image:release"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_labels_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az278-724"
+  }, {
+    "name" : "thread",
+    "value" : "2887-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_labels_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_image",
+    "value" : "'some-image:release'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "29e265943fb500d7",
+        "reportUrl" : "https://vamotest.github.io/allure-report/30//#testresult/29e265943fb500d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876500477,
+          "stop" : 1617876500477,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4a761461e663e8bf",
+        "reportUrl" : "https://vamotest.github.io/allure-report/29//#testresult/4a761461e663e8bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876391340,
+          "stop" : 1617876391340,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9b7108ae113369e1",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/9b7108ae113369e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300854,
+          "stop" : 1617876300854,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "efacb8da257dfe28",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/efacb8da257dfe28",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035089,
+          "stop" : 1617876035089,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b6ddf0e0909a412f",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/b6ddf0e0909a412f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294959,
+          "stop" : 1616959294959,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "316d28fcc540e38f.json",
+  "parameterValues" : [ "'some-image:release'" ]
+}
