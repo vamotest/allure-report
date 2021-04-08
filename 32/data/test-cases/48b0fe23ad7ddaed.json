@@ -1,0 +1,158 @@
+{
+  "uid" : "48b0fe23ad7ddaed",
+  "name" : "test_attach",
+  "fullName" : "tests.allure_attachments_test#test_attach",
+  "historyId" : "7ec92f08110a85d7d88cc3dbd4c757e0",
+  "time" : {
+    "start" : 1617878245484,
+    "stop" : 1617878245485,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e19e8dad09334fe2",
+      "name" : "PNG example",
+      "source" : "e19e8dad09334fe2.png",
+      "type" : "image/png",
+      "size" : 7415
+    }, {
+      "uid" : "22a07e2cacab5fa5",
+      "name" : "HTML example",
+      "source" : "22a07e2cacab5fa5.html",
+      "type" : "text/html",
+      "size" : 32
+    }, {
+      "uid" : "b0e8bada8205554",
+      "name" : "TXT example",
+      "source" : "b0e8bada8205554.txt",
+      "type" : "text/plain",
+      "size" : 17
+    }, {
+      "uid" : "a54b55e21600c341",
+      "name" : "CSV example",
+      "source" : "a54b55e21600c341.csv",
+      "type" : "text/csv",
+      "size" : 32
+    }, {
+      "uid" : "e621e4fe17708aed",
+      "name" : "JSON example",
+      "source" : "e621e4fe17708aed.json",
+      "type" : "application/json",
+      "size" : 31
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_attachments_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az132-838"
+  }, {
+    "name" : "thread",
+    "value" : "2769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_attachments_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "11bc25ac204cad0b",
+        "reportUrl" : "https://vamotest.github.io/allure-report/31//#testresult/11bc25ac204cad0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876570201,
+          "stop" : 1617876570202,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "5f79c642f7a56e8a",
+        "reportUrl" : "https://vamotest.github.io/allure-report/30//#testresult/5f79c642f7a56e8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876500438,
+          "stop" : 1617876500439,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "60db22ff241a3a3d",
+        "reportUrl" : "https://vamotest.github.io/allure-report/29//#testresult/60db22ff241a3a3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876391261,
+          "stop" : 1617876391263,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "b096d4e3dba99c15",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/b096d4e3dba99c15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300832,
+          "stop" : 1617876300832,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "aae2f464b52fc52b",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/aae2f464b52fc52b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035050,
+          "stop" : 1617876035050,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1f3168c2775fc829",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/1f3168c2775fc829",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294932,
+          "stop" : 1616959294932,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "48b0fe23ad7ddaed.json",
+  "parameterValues" : [ ]
+}

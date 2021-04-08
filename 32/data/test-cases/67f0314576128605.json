@@ -1,0 +1,124 @@
+{
+  "uid" : "67f0314576128605",
+  "name" : "test_allure_severity[blocker]",
+  "fullName" : "tests.allure_labels_test#test_allure_severity",
+  "historyId" : "cbf18252fc1b4ac75309cecfffbb2dc6",
+  "time" : {
+    "start" : 1617878245540,
+    "stop" : 1617878245541,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_labels_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az132-838"
+  }, {
+    "name" : "thread",
+    "value" : "2769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_labels_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "severity",
+    "value" : "'Severity.BLOCKER'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "f19bef4843d5b99e",
+        "reportUrl" : "https://vamotest.github.io/allure-report/31//#testresult/f19bef4843d5b99e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876570243,
+          "stop" : 1617876570243,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8025104e34fa8d10",
+        "reportUrl" : "https://vamotest.github.io/allure-report/30//#testresult/8025104e34fa8d10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876500479,
+          "stop" : 1617876500479,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "bd738337621db690",
+        "reportUrl" : "https://vamotest.github.io/allure-report/29//#testresult/bd738337621db690",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876391342,
+          "stop" : 1617876391342,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "374151173af78ec2",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/374151173af78ec2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300855,
+          "stop" : 1617876300855,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "fd8a17b8d8c15c73",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/fd8a17b8d8c15c73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035090,
+          "stop" : 1617876035091,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "d2594d5a1baa30cd",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/d2594d5a1baa30cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294961,
+          "stop" : 1616959294961,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "67f0314576128605.json",
+  "parameterValues" : [ "'Severity.BLOCKER'" ]
+}

@@ -1,0 +1,323 @@
+{
+  "uid" : "c6857fdb6efa6c41",
+  "name" : "test_allure_fixture_with_finalizer",
+  "fullName" : "tests.allure_fixture_test#test_allure_fixture_with_finalizer",
+  "historyId" : "c600988262e64b52edd7141643b7ef19",
+  "time" : {
+    "start" : 1617878245524,
+    "stop" : 1617878245525,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "function_level_fixture",
+    "time" : {
+      "start" : 1617878245524,
+      "stop" : 1617878245524,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside function level fixture",
+      "time" : {
+        "start" : 1617878245524,
+        "stop" : 1617878245524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "session_level_fixture",
+    "time" : {
+      "start" : 1617878245523,
+      "stop" : 1617878245523,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside session level fixture",
+      "time" : {
+        "start" : 1617878245523,
+        "stop" : 1617878245523,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "module_level_fixture",
+    "time" : {
+      "start" : 1617878245523,
+      "stop" : 1617878245524,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside module level fixture",
+      "time" : {
+        "start" : 1617878245524,
+        "stop" : 1617878245524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside test_allure_fixture_with_finalizer",
+      "time" : {
+        "start" : 1617878245524,
+        "stop" : 1617878245524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "function_level_fixture::finalizer",
+    "time" : {
+      "start" : 1617878245525,
+      "stop" : 1617878245525,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside finalizer function level fixture",
+      "time" : {
+        "start" : 1617878245525,
+        "stop" : 1617878245525,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "session_level_fixture::finalizer",
+    "time" : {
+      "start" : 1617878245571,
+      "stop" : 1617878245572,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside finalizer session level fixture",
+      "time" : {
+        "start" : 1617878245572,
+        "stop" : 1617878245572,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "module_level_fixture::finalizer",
+    "time" : {
+      "start" : 1617878245525,
+      "stop" : 1617878245525,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside finalizer module level fixture",
+      "time" : {
+        "start" : 1617878245525,
+        "stop" : 1617878245525,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_fixture_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az132-838"
+  }, {
+    "name" : "thread",
+    "value" : "2769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_fixture_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "3afda24bf8f32d05",
+        "reportUrl" : "https://vamotest.github.io/allure-report/31//#testresult/3afda24bf8f32d05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876570229,
+          "stop" : 1617876570229,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a5045c1ae230ddde",
+        "reportUrl" : "https://vamotest.github.io/allure-report/30//#testresult/a5045c1ae230ddde",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876500465,
+          "stop" : 1617876500465,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2ef86746c339790b",
+        "reportUrl" : "https://vamotest.github.io/allure-report/29//#testresult/2ef86746c339790b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876391331,
+          "stop" : 1617876391331,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ddcd55cd2ce43771",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/ddcd55cd2ce43771",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300846,
+          "stop" : 1617876300846,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2630042d8fb9e2bc",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/2630042d8fb9e2bc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035080,
+          "stop" : 1617876035080,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ae2dec6857c13e42",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/ae2dec6857c13e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294949,
+          "stop" : 1616959294949,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c6857fdb6efa6c41.json",
+  "parameterValues" : [ ]
+}

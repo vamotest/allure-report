@@ -1,0 +1,123 @@
+{
+  "uid" : "ed07919764ec5293",
+  "name" : "test_dynamic_description[First param]",
+  "fullName" : "tests.allure_description_test#test_dynamic_description",
+  "historyId" : "e7773d434a5eddf2ab77d1d7388b6126",
+  "time" : {
+    "start" : 1617878245514,
+    "stop" : 1617878245514,
+    "duration" : 0
+  },
+  "description" : "\n    Initial test description\n    \n This is dynamic description part based on First param",
+  "descriptionHtml" : "<pre><code>Initial test description\n</code></pre>\n<p>This is dynamic description part based on First param</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_description_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az132-838"
+  }, {
+    "name" : "thread",
+    "value" : "2769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_description_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_param",
+    "value" : "'First param'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "f89a85b0d434574f",
+        "reportUrl" : "https://vamotest.github.io/allure-report/31//#testresult/f89a85b0d434574f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876570216,
+          "stop" : 1617876570216,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a5b57a75c48b5a56",
+        "reportUrl" : "https://vamotest.github.io/allure-report/30//#testresult/a5b57a75c48b5a56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876500454,
+          "stop" : 1617876500454,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "19cfd117e9a66f3d",
+        "reportUrl" : "https://vamotest.github.io/allure-report/29//#testresult/19cfd117e9a66f3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876391322,
+          "stop" : 1617876391323,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "f9d1fa90a971e3fb",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/f9d1fa90a971e3fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300838,
+          "stop" : 1617876300838,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8a1a1e0673a4edd0",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/8a1a1e0673a4edd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035071,
+          "stop" : 1617876035071,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f15503ca2c0336ce",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/f15503ca2c0336ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294940,
+          "stop" : 1616959294940,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ed07919764ec5293.json",
+  "parameterValues" : [ "'First param'" ]
+}
