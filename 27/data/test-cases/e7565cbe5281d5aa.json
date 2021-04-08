@@ -1,0 +1,88 @@
+{
+  "uid" : "e7565cbe5281d5aa",
+  "name" : "test_with_fixture_title",
+  "fullName" : "tests.allure_fixture_test#test_with_fixture_title",
+  "historyId" : "735d8c4fe5e5b6c6225f4c7127e10aa0",
+  "time" : {
+    "start" : 1617876035075,
+    "stop" : 1617876035075,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Fixture title",
+    "time" : {
+      "start" : 1617876035075,
+      "stop" : 1617876035075,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_fixture_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az129-662"
+  }, {
+    "name" : "thread",
+    "value" : "2746-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_fixture_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "1ae9d7f117752a10",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/1ae9d7f117752a10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294944,
+          "stop" : 1616959294944,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e7565cbe5281d5aa.json",
+  "parameterValues" : [ ]
+}
