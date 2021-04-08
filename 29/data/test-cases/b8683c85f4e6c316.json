@@ -1,0 +1,97 @@
+{
+  "uid" : "b8683c85f4e6c316",
+  "name" : "test_allure_severity[critical]",
+  "fullName" : "tests.allure_labels_test#test_allure_severity",
+  "historyId" : "0c6c42f65f72ea1d6e77ab13eaf7a8ab",
+  "time" : {
+    "start" : 1617876391344,
+    "stop" : 1617876391344,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_labels_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az199-343"
+  }, {
+    "name" : "thread",
+    "value" : "2766-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_labels_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "severity",
+    "value" : "'Severity.CRITICAL'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "1c1d739b20ed93b1",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/1c1d739b20ed93b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300856,
+          "stop" : 1617876300856,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "12d1c0cd1ba64021",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/12d1c0cd1ba64021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035092,
+          "stop" : 1617876035092,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9ae736576d56a1c1",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/9ae736576d56a1c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294963,
+          "stop" : 1616959294963,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b8683c85f4e6c316.json",
+  "parameterValues" : [ "'Severity.CRITICAL'" ]
+}

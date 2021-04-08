@@ -1,0 +1,131 @@
+{
+  "uid" : "60db22ff241a3a3d",
+  "name" : "test_attach",
+  "fullName" : "tests.allure_attachments_test#test_attach",
+  "historyId" : "7ec92f08110a85d7d88cc3dbd4c757e0",
+  "time" : {
+    "start" : 1617876391261,
+    "stop" : 1617876391263,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c8fd25958e285075",
+      "name" : "PNG example",
+      "source" : "c8fd25958e285075.png",
+      "type" : "image/png",
+      "size" : 7415
+    }, {
+      "uid" : "4bfb8aa76d389e20",
+      "name" : "HTML example",
+      "source" : "4bfb8aa76d389e20.html",
+      "type" : "text/html",
+      "size" : 32
+    }, {
+      "uid" : "10f6a7436ae01c10",
+      "name" : "TXT example",
+      "source" : "10f6a7436ae01c10.txt",
+      "type" : "text/plain",
+      "size" : 17
+    }, {
+      "uid" : "8ec674f23c68e",
+      "name" : "CSV example",
+      "source" : "8ec674f23c68e.csv",
+      "type" : "text/csv",
+      "size" : 32
+    }, {
+      "uid" : "b80370bd7b517d50",
+      "name" : "JSON example",
+      "source" : "b80370bd7b517d50.json",
+      "type" : "application/json",
+      "size" : 31
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_attachments_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az199-343"
+  }, {
+    "name" : "thread",
+    "value" : "2766-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_attachments_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "b096d4e3dba99c15",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/b096d4e3dba99c15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300832,
+          "stop" : 1617876300832,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "aae2f464b52fc52b",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/aae2f464b52fc52b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035050,
+          "stop" : 1617876035050,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1f3168c2775fc829",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/1f3168c2775fc829",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294932,
+          "stop" : 1616959294932,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "60db22ff241a3a3d.json",
+  "parameterValues" : [ ]
+}
