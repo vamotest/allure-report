@@ -1,0 +1,143 @@
+{
+  "uid" : "47f5216cc7f7f307",
+  "name" : "test_allure_parametrized_test [First name]",
+  "fullName" : "tests.allure_parametrized_test#test_allure_parametrized_test",
+  "historyId" : "85332e70996dd0c3173e73f0d96e0a7d",
+  "time" : {
+    "start" : 1617876500497,
+    "stop" : 1617876500497,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside parametrized test",
+      "time" : {
+        "start" : 1617876500497,
+        "stop" : 1617876500497,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Test parameter: First name",
+      "time" : {
+        "start" : 1617876500497,
+        "stop" : 1617876500497,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "allure_parametrized_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az193-129"
+  }, {
+    "name" : "thread",
+    "value" : "2778-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.allure_parametrized_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_param",
+    "value" : "'First name'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "1ee080eb1970a819",
+        "reportUrl" : "https://vamotest.github.io/allure-report/29//#testresult/1ee080eb1970a819",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876391356,
+          "stop" : 1617876391356,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "17422bb56022d753",
+        "reportUrl" : "https://vamotest.github.io/allure-report/28//#testresult/17422bb56022d753",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876300866,
+          "stop" : 1617876300866,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "bb5c3f0360268b9c",
+        "reportUrl" : "https://vamotest.github.io/allure-report/27//#testresult/bb5c3f0360268b9c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876035105,
+          "stop" : 1617876035105,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "689f389dd93058dc",
+        "reportUrl" : "https://vamotest.github.io/allure-report/26//#testresult/689f389dd93058dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616959294976,
+          "stop" : 1616959294976,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "47f5216cc7f7f307.json",
+  "parameterValues" : [ "'First name'" ]
+}
